@@ -1,0 +1,2 @@
+# codtech-task-3
+KUBERNETES DEPLOYMENT
