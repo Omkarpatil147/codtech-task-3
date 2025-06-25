@@ -47,7 +47,7 @@ This task helped me understand the deployment of containerized applications usin
 > Make sure these images are placed in the `assets/` folder.
 
 ### 🔹 Pod & Service Created  
-![Pods](assets/nginx-pods.png)
+![Pods](assets/nginx-pod.png)
 
 ### 🔹 Custom HTML in Browser  
 ![Browser Output](assets/nginx-browser-output.png)
